@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36774623226",
+    "project_id": "cookease-77bfe",
+    "storage_bucket": "cookease-77bfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36774623226:android:18ae365fb5916e1dd55643",
+        "android_client_info": {
+          "package_name": "com.pvsrishabh.cookease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtiPksyIJocrMj-gd_k22nSGgzrfrWNnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
